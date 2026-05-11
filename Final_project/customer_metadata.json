@@ -1,0 +1,23 @@
+{
+    "dataset_name": "Customer Credit Risk Dataset",
+    "records": 1000,
+    "columns": [
+        "customer_id",
+        "age",
+        "gender",
+        "region",
+        "education_level",
+        "employment_type",
+        "annual_income",
+        "loan_amount",
+        "loan_purpose",
+        "credit_score",
+        "repayment_history",
+        "transaction_count",
+        "spending_ratio",
+        "join_date",
+        "default_flag"
+    ],
+    "target_variable": "default_flag",
+    "description": "Synthetic fintech dataset for EDA, preprocessing, feature engineering, and ML."
+}
